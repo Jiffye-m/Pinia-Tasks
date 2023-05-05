@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Learn javascript",
+      "isFav": true
+    },
+    {
+      "id": 4,
+      "title": "Learn CSS",
+      "isFav": true
+    },
+    {
+      "title": "Go an buy Food by 12",
+      "isFav": false,
+      "id": 7959
+    }
+  ]
+}
